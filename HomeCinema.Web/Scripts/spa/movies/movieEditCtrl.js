@@ -14,7 +14,7 @@
         $scope.UpdateMovie = UpdateMovie;
         $scope.prepareFiles = prepareFiles;
         $scope.openDatePicker = openDatePicker;
-
+        $scope.testChanges = "This is Test";
         $scope.dateOptions = {
             formatYear: 'yy',
             startingDay: 1
