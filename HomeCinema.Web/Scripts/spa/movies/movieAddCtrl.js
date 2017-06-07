@@ -9,7 +9,7 @@
 
         $scope.pageClass = 'page-movies';
         $scope.movie = { GenreId: 1, Rating: 1, NumberOfStocks: 1 };
-
+        $scope.newTest = 'This is my new commit';
         $scope.genres = [];
         $scope.isReadOnly = false;
         $scope.AddMovie = AddMovie;
